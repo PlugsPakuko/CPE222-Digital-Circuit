@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="29476" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="27316" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="32144" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="26452" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="9800" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="16772" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="Plugs" Host="PAKUKO" Pid="4128" HostCore="16" HostMemory="016541589504">
+    </Process>
+</ProcessHandle>

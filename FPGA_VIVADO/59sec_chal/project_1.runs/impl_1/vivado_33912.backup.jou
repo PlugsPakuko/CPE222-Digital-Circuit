@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Nov 14 04:28:28 2024
+# Process ID: 33912
+# Current directory: C:/Users/ASUS/Documents/KMUTT/CPE/CPE222_Digital_Circuit/temp/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log top_module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_module.tcl -notrace
+# Log file: C:/Users/ASUS/Documents/KMUTT/CPE/CPE222_Digital_Circuit/temp/project_1/project_1.runs/impl_1/top_module.vdi
+# Journal file: C:/Users/ASUS/Documents/KMUTT/CPE/CPE222_Digital_Circuit/temp/project_1/project_1.runs/impl_1\vivado.jou
+# Running On        :Pakuko
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 7 5800HS with Radeon Graphics        
+# CPU Frequency     :3194 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :16541 MB
+# Swap memory       :12348 MB
+# Total Virtual     :28889 MB
+# Available Virtual :6624 MB
+#-----------------------------------------------------------
+source top_module.tcl -notrace
